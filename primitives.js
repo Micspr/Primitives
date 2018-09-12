@@ -21,4 +21,4 @@ console.log('john'.substr(2));
 console.log('john'.substr(0, 2));
 console.log('john'.toUpperCase());
 console.log('JOHN'.toLowerCase());
-
+console.log('Michael was herererere!');
